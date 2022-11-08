@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NeefKeef/colorPalleteGenerator.git/static/css/main.2e8c36bc.css",
+    "main.js": "/NeefKeef/colorPalleteGenerator.git/static/js/main.fcacf6e7.js",
+    "static/js/787.ffa283ff.chunk.js": "/NeefKeef/colorPalleteGenerator.git/static/js/787.ffa283ff.chunk.js",
+    "index.html": "/NeefKeef/colorPalleteGenerator.git/index.html",
+    "main.2e8c36bc.css.map": "/NeefKeef/colorPalleteGenerator.git/static/css/main.2e8c36bc.css.map",
+    "main.fcacf6e7.js.map": "/NeefKeef/colorPalleteGenerator.git/static/js/main.fcacf6e7.js.map",
+    "787.ffa283ff.chunk.js.map": "/NeefKeef/colorPalleteGenerator.git/static/js/787.ffa283ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8c36bc.css",
+    "static/js/main.fcacf6e7.js"
+  ]
+}
